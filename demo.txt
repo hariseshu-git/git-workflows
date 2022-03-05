@@ -1,2 +1,8 @@
+
 Welcome to my workflows in git. Asuming this content is the stable content we have in the master branch we move ahead with the workflows
 Now, I have added this line from main branch again.
+Welcome to my workflows in git. Asuming this content is the stable content we have in the master branch we move ahead with the workflows.
+Added this content in f2 branch.
+
+Also added this content while merging the develop branch into the master.
+
